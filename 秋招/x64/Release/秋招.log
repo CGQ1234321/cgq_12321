@@ -1,0 +1,13 @@
+﻿  秋招.c
+D:\-----\秋招\秋招.c(11,11): warning C4476: "scanf": 格式说明符中的类型字段字符“ ”未知
+D:\-----\秋招\秋招.c(11,19): warning C4474: scanf: 格式字符串中传递的参数太多
+D:\-----\秋招\秋招.c(12,11): warning C4476: "scanf": 格式说明符中的类型字段字符“ ”未知
+D:\-----\秋招\秋招.c(12,19): warning C4474: scanf: 格式字符串中传递的参数太多
+D:\-----\秋招\秋招.c(13,11): warning C4476: "scanf": 格式说明符中的类型字段字符“ ”未知
+D:\-----\秋招\秋招.c(13,19): warning C4474: scanf: 格式字符串中传递的参数太多
+D:\-----\秋招\秋招.c(14,11): warning C4476: "scanf": 格式说明符中的类型字段字符“ ”未知
+D:\-----\秋招\秋招.c(14,19): warning C4474: scanf: 格式字符串中传递的参数太多
+D:\-----\秋招\秋招.c(11,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\-----\秋招\秋招.c(12,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\-----\秋招\秋招.c(13,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\-----\秋招\秋招.c(14,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
